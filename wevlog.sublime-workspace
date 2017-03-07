@@ -1,0 +1,669 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"profile",
+				"profileAdmin"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"articles",
+				"articles_model"
+			],
+			[
+				"s_man",
+				"s_main_phone"
+			],
+			[
+				"Profil",
+				"ProfileAdmin"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"svR",
+				"svr_poly"
+			],
+			[
+				"svr_rf",
+				"svr_rbf"
+			],
+			[
+				"csvfile",
+				"csvFileReader"
+			],
+			[
+				"csv",
+				"csvfile"
+			],
+			[
+				"index",
+				"index2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "{% extends 'base.html' %}\n\t\n",
+			"file": "src/profiles/templates/home.html",
+			"file_size": 1316,
+			"file_write_time": 131318380205346683,
+			"settings":
+			{
+				"buffer_size": 28,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/profiles/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 2217,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/profiles/views.py",
+			"settings":
+			{
+				"buffer_size": 402,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/wevlog/urls.py",
+			"settings":
+			{
+				"buffer_size": 1237,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "static/static/css/global.css",
+			"settings":
+			{
+				"buffer_size": 1631,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 157.0,
+		"last_filter": "snipp",
+		"selected_items":
+		[
+			[
+				"snipp",
+				"Snippet: html"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/mbleo/Desktop/wevlog/src",
+		"/C/Users/mbleo/Desktop/wevlog/src/profiles",
+		"/C/Users/mbleo/Desktop/wevlog/src/profiles/templates",
+		"/C/Users/mbleo/Desktop/wevlog/src/wevlog",
+		"/C/Users/mbleo/Desktop/wevlog/src/wevlog/__pycache__",
+		"/C/Users/mbleo/Desktop/wevlog/static",
+		"/C/Users/mbleo/Desktop/wevlog/static/static/js"
+	],
+	"file_history":
+	[
+		"/C/Users/mbleo/Desktop/wevlog/src/profiles/templates/base.html",
+		"/C/Users/mbleo/Desktop/wevlog/src/profiles/templates/userprofile.html",
+		"/C/Users/mbleo/Desktop/wevlog/src/profiles/templates/home.html",
+		"/C/Users/mbleo/AppData/Local/Temp/Rar$EXa0.841/Photography Starter Files/index.html",
+		"/C/Users/mbleo/Desktop/wevlog/static/static/css/main.css",
+		"/C/Users/mbleo/Desktop/blogMusic Template/mzq/www.pixel-industry.com/html/musician/musician-html/home-page-music-blog.html",
+		"/C/Users/mbleo/Desktop/blogMusic Template/mzq/www.pixel-industry.com/html/musician/musician-html/css/style.css",
+		"/C/Users/mbleo/Desktop/New folder/css/style.css",
+		"/C/Users/mbleo/Desktop/wevlog/static/static/js/scripts.js",
+		"/C/Users/mbleo/Desktop/wevlog/src/profiles/views.py",
+		"/C/Users/mbleo/Desktop/wevlog/src/profiles/templates/about.html",
+		"/C/Users/mbleo/Desktop/wevlog/src/wevlog/urls.py",
+		"/C/Users/mbleo/Desktop/wevlog/src/wevlog/settings.py",
+		"/C/Users/mbleo/Desktop/wevlog/src/manage.py",
+		"/C/Users/mbleo/Desktop/wevlog/src/profiles/models.py",
+		"/C/Users/mbleo/Desktop/wevlog/src/profiles/admin.py",
+		"/C/Users/mbleo/Desktop/tryTen/Scripts/django-admin.py",
+		"/W/projects/2016/ervan/application/views/main/slider.html",
+		"/C/Users/mbleo/Desktop/tryTen/static/static/js/ie10-viewport-bug-workaround.js",
+		"/W/projects/2016/komora/application/views/main/main.html",
+		"/C/Users/mbleo/Desktop/template/services.html",
+		"/W/projects/2016/komora/application/modules/main/controllers/main.php",
+		"/W/projects/2016/komora/application/views/main/certificates.html",
+		"/W/projects/2016/komora/application/views/main/galerie-foto_28.html",
+		"/W/projects/2016/komora/application/config/admin.php",
+		"/C/Users/mbleo/Downloads/Warcraft.2016.BluRay.720p.x264.DD5.1-HDChina/Warcraft.2016.BluRay.720p.x264.DD5.1-HDChina.srt",
+		"/W/projects/2016/prointermed/application/views/main/footer.html",
+		"/W/projects/2016/prointermed/application/modules/portfolio/models/portfolio_model.php",
+		"/W/projects/2016/prointermed/application/views/main/left-col-pages.html",
+		"/W/projects/2016/prointermed/application/modules/main/controllers/main.php",
+		"/W/projects/2016/prointermed/application/views/main/newspage.html",
+		"/W/projects/2016/prointermed/application/modules/articles/models/articles_model.php",
+		"/W/projects/2016/prointermed/application/views/main/main.html",
+		"/W/projects/2016/prointermed/static/assets/frontend/css/style.css",
+		"/W/projects/2016/prointermed/application/views/main/header.html",
+		"/W/projects/2016/prointermed/application/views/main/contact.html",
+		"/W/projects/2016/prointermed/application/modules/articles/controllers/articles.php",
+		"/W/projects/2016/prointermed/application/helpers/categories_helper.php",
+		"/W/projects/2016/prointermed/application/helpers/pages_helper.php",
+		"/W/projects/2016/prointermed/application/views/main/listing.html",
+		"/W/projects/2016/prointermed/application/modules/portfolio/views/admin/portfolio.html",
+		"/W/projects/2016/prointermed/application/modules/articles/views/admin/news.html",
+		"/W/projects/2016/prointermed/application/modules/portfolio/controllers/portfolio.php",
+		"/W/projects/2016/prointermed/application/modules/settings/views/admin/settings.html",
+		"/W/projects/2016/prointermed/application/modules/settings/controllers/settings.php",
+		"/W/projects/2016/prointermed/application/views/main/topbar.html",
+		"/C/Users/mbleo/Downloads/index.html",
+		"/W/projects/2016/prointermed/application/modules/settings/models/settings_model.php",
+		"/W/projects/2016/prointermed/application/views/base.html",
+		"/W/projects/2016/prointermed/application/config/admin.php",
+		"/C/Users/mbleo/Desktop/tryTen/src/tryTen/urls.py",
+		"/C/Users/mbleo/Desktop/tryTen/src/tryTen/settings.py",
+		"/C/Users/mbleo/Desktop/tryTen/src/profiles/models.py",
+		"/C/Users/mbleo/Desktop/tryTen/src/profiles/admin.py",
+		"/C/Users/mbleo/Desktop/tryTen/src/profiles/views.py",
+		"/C/Users/mbleo/Desktop/Maintainer Python/maintainer/blog/templates/blog/blog.html",
+		"/C/Users/mbleo/Desktop/Maintainer Python/maintainer/blog/models.py",
+		"/C/Users/mbleo/Desktop/Maintainer Python/maintainer/blog/migrations/0001_initial.py",
+		"/C/Users/mbleo/Desktop/Maintainer Python/maintainer/blog/urls.py",
+		"/C/Users/mbleo/Desktop/Maintainer Python/maintainer/maintainer/urls.py",
+		"/C/Users/mbleo/Desktop/Maintainer Python/maintainer/personal/templates/personal/includes/htmlsnippet.html",
+		"/C/Users/mbleo/Desktop/Maintainer Python/maintainer/personal/urls.py",
+		"/C/Users/mbleo/Desktop/Maintainer Python/maintainer/personal/views.py",
+		"/C/Users/mbleo/Desktop/Maintainer Python/maintainer/personal/templates/personal/home.html",
+		"/C/Users/mbleo/Desktop/Maintainer Python/maintainer/personal/templates/personal/basic.html",
+		"/C/Users/mbleo/Desktop/Maintainer Python/maintainer/personal/templates/personal/header.html",
+		"/C/Users/mbleo/Desktop/Maintainer Python/maintainer/maintainer/settings.py",
+		"/C/Users/mbleo/Desktop/Maintainer Python/maintainer/personal/templates/personal/includes/home.html",
+		"/C/Users/mbleo/Desktop/Maintainer Python/maintainer/personalapp/views.py",
+		"/C/Users/mbleo/Desktop/2.py",
+		"/C/Users/mbleo/Desktop/Maintainer Python/maintainer/personalapp/admin.py",
+		"/C/Users/mbleo/Desktop/ez_setup.py",
+		"/C/Users/mbleo/Desktop/Maintainer Python/maintainer/personalapp/urls.py",
+		"/C/Users/mbleo/Desktop/1.py",
+		"/W/projects/2016/ervan/application/modules/main/controllers/main.php",
+		"/W/projects/2016/ervan/static/assets/frontend/css/style.css",
+		"/C/Users/mbleo/Downloads/shop-list-left-sidebar.html",
+		"/W/projects/2016/gaftos/application/views/main/left-col.html",
+		"/W/projects/2016/gaftos/application/views/main/listing_alt_products.html",
+		"/W/projects/2016/gaftos/application/views/main/listing.html",
+		"/W/projects/2016/gaftos/application/modules/main/controllers/main.php",
+		"/C/Users/mbleo/Downloads/shop-left-sidebar.html",
+		"/C/Users/mbleo/Desktop/BD5",
+		"/C/Users/mbleo/Desktop/Projects/C++/Proiect POO/Proiect POO.sln",
+		"/C/Users/mbleo/Desktop/Projects/C++/Proiect POO/Proiect POO/Proiect POO.vcxproj",
+		"/W/projects/2016/gamamanagement/application/modules/main/controllers/main.php",
+		"/W/projects/2016/gamamanagement/application/views/main/main.html",
+		"/W/projects/2016/gamamanagement/static/assets/frontend/libraries/owl-carousel/owl.carousel.css",
+		"/C/xampp/htdocs/vimets/application/modules/Auth/views/signup_v.php",
+		"/C/xampp/htdocs/vimets/application/config/routes.php",
+		"/C/xampp/htdocs/vimets/application/config/config.php",
+		"/C/xampp/htdocs/vimets/application/modules/Home/controllers/Home.php",
+		"/C/xampp/htdocs/vimets/application/modules/Auth/controllers/Auth.php",
+		"/C/xampp/htdocs/vimets/application/modules/Login/controllers/Login.php",
+		"/C/xampp/htdocs/vimets/application/modules/Template/views/guest_template_v.php",
+		"/C/xampp/htdocs/vimets/.htaccess",
+		"/C/Users/mbleo/Downloads/documents.tips_programare-orientata-obiect-ion-smeureanu.pdf",
+		"/C/Users/mbleo/Desktop/agent/application/config/routes.php",
+		"/C/xampp/htdocs/vimets/application/core/MY_Controller.php",
+		"/C/xampp/htdocs/vimets/application/modules/Login/views/login_v.php",
+		"/C/xampp/htdocs/vimets/application/modules/Template/views/admin_template_v.php",
+		"/C/xampp/htdocs/vimets/application/config/autoload.php",
+		"/C/xampp/htdocs/vimets/application/modules/Template/controllers/Template.php",
+		"/C/xampp/htdocs/vimets/application/modules/SignUp/views/signup_v.php",
+		"/C/xampp/htdocs/vimets/application/modules/SignUp/controllers/Auth.php",
+		"/C/xampp/htdocs/vimets/application/modules/Home/views/home_v.php",
+		"/C/xampp/htdocs/vimets/application/modules/Charts/views/widgets_v.php",
+		"/C/xampp/htdocs/vimets/application/modules/Charts/controllers/Widgets.php",
+		"/C/xampp/htdocs/vimets/application/modules/Dashboard/views/home_v.php",
+		"/C/xampp/htdocs/vimets/application/modules/Dashboard/controllers/Home.php",
+		"/C/xampp/htdocs/vimets/application/modules/Template/views/user_template_v.php",
+		"/C/xampp/htdocs/vimets/application/views/welcome_message.php",
+		"/C/xampp/htdocs/vimets/application/controllers/Welcome.php",
+		"/C/xampp/htdocs/vimets/application/modules/Dashboard/controllers/Dashboard.php",
+		"/C/xampp/htdocs/vimets/application/.htaccess",
+		"/C/xampp/htdocs/vimets2vechi/.htaccess",
+		"/C/xampp/htdocs/vimets/application/modules/Dashboard/dashboard1_v.php",
+		"/C/xampp/htdocs/vimets/application/modules/Dashboard/views/dashboard2_v.php",
+		"/C/Users/mbleo/Desktop/AdminLTE-2.3.6/pages/examples/blank.html",
+		"/C/xampp/htdocs/vimets/application/modules/home/controllers/Home.php",
+		"/C/xampp/htdocs/vimets/application/modules/Template/views/sample_template_v.php",
+		"/C/xampp/htdocs/vimets/application/modules/home/views/about_v.php",
+		"/C/xampp/htdocs/vimets/application/modules/home/views/home_v.php",
+		"/C/xampp/htdocs/vimets/application/modules/auth/controllers/auth.php",
+		"/C/xampp/htdocs/vimets/application/views/public/themes/default/header.php",
+		"/C/xampp/htdocs/vimets/application/views/public/themes/default/layout.php",
+		"/C/xampp/htdocs/vimets/application/views/login_form.php",
+		"/C/xampp/htdocs/vimets/application/config/ci_my_admin.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"white",
+			"fluid",
+			"%}\n",
+			"header",
+			"Profile",
+			"profile",
+			"Profile",
+			"profile",
+			"Profile",
+			"profile",
+			"Profile",
+			"c=\"j",
+			"c=\"js",
+			"þ",
+			"$this->session->sess_destroy();die();",
+			"nw",
+			"ln",
+			"printListRecursiveLeft",
+			"portfolio_categories_show",
+			"get_page_content_front",
+			"news_categories_show",
+			"portfolio_categories_show",
+			"news_categories_show",
+			"portfolio_categories_show",
+			"ct",
+			"md-6",
+			"md-3",
+			"lc",
+			"<</",
+			"frontpage",
+			"portfolio_model",
+			"productID",
+			"portfolio_frontpage",
+			"portfolio_edit",
+			"\">\n",
+			"frontpage",
+			"portfolio_post_frontpage",
+			"frontpage",
+			"flags",
+			"s_gps",
+			"faceb",
+			"s_facebook",
+			"s_instagram",
+			"s_facebook",
+			"auth",
+			"profile",
+			"Profile",
+			"products",
+			"listing",
+			"products",
+			"width",
+			"<br/>",
+			"home",
+			"libraries",
+			"home",
+			"chart",
+			"home",
+			"dashboard",
+			"alexander",
+			"../../",
+			"help",
+			"boots",
+			"bootsshop_template",
+			"vimets_admin",
+			"bootsshop_template_dir",
+			"item",
+			"ci_my_",
+			"MacFJA",
+			"key",
+			"easy_Admin",
+			"entity",
+			"easy",
+			"8000",
+			"navbar",
+			"virtual",
+			"csrf",
+			"esktop",
+			"host"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"t"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/profiles/templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								28
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/profiles/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1486,
+								1486
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/profiles/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								327,
+								327
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/wevlog/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								899,
+								899
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\Users\\mbleo\\Desktop\\wevlog\\src\\profiles\\templates",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "static/static/css/global.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1631,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								223,
+								223
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "wevlog.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main.php",
+				"application\\modules\\main\\controllers\\main.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

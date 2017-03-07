@@ -1,0 +1,17 @@
+{% block sidebar %}
+<div id="container">
+	<div class="sidebar">
+		<ul id="nav">
+			{% url 'home' as home %}
+			{% url 'userprofile' as userprofile %}
+			{% url 'contact' as contact %}
+			<li {% if request.path == home %} class="active" {% endif %}><a href="{% url 'home' %}"><i class="fa fa-home"></i> Home</a></li>
+			<li {% if request.path == userprofile %} class="active" {% endif %}><a href="{% url 'userprofile' %}"><i class="fa fa-user"></i> My profile</a></li>
+			<li><a href="#"><i class="fa fa-diamond"></i> Best of Today</a></li>
+			<li><a href="#"><i class="fa fa-users"></i> Top 10 users of week</a></li>
+			<li><a href="#"><i class="fa fa-newspaper-o"></i> News</a></li>
+			<li {% if request.path == contact %} class="active" {% endif %}><a href="{% url 'contact' %}"><i class="fa fa-support"></i> Contact</a></li>
+		</ul>
+	</div>
+</div>
+{% endblock %}

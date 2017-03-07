@@ -1,0 +1,33 @@
+	{% block guestFirstPageSnippets %}
+	
+	<div id="slider" class="carousel slide" data-ride="">
+		<div class="carousel-inner" role="listbox">
+			<!-- SLIDE 1 -->
+			<div class="item active"> <h2>Clean & <br>Responsive<br>Design</h2> </div>
+			<!-- SLIDE 2 -->	
+			<div class="item"> <h2> Style & <br>Good Coding<br>Guarantee</h2> </div>
+			<!-- SLIDE 3 -->	
+			<div class="item"> <h2>New & <br>Experimental<br>Look</h2> </div>						
+		</div>
+	</div>
+	<div class="col-sm-12 col-md-12 col-lg-12 col-xs-12 ">
+	        <form id="search-guest-page" role="search">
+		        <div class="input-group ">
+		            <input type="text" class="form-control" placeholder="Search for posts" name="srch-term" id="srch-term">
+		            <div class="input-group-btn">
+		                <button class="btn btn-default search-icon" type="submit"><i class="glyphicon glyphicon-search "></i></button>
+		            </div>
+		        </div>
+	        </form>
+	   </div>
+	<div id="guest-options">
+		<a href="#" class="guest-button-register">Register</a>
+		<a href="#" class="guest-button-login">Login</a>
+		<a href="{% url 'home' %}" class="guest-button-login">Visit as Guest</a>
+			
+	</div>
+
+	<div id="guest-contact">
+		<a href="{% url 'contact' %}">Contact Us</a>
+	</div>
+	{% endblock %}
